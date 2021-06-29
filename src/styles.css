@@ -25,6 +25,20 @@ li {
     list-style: none;
 }
 
+footer {
+    font-size: 10px;
+    text-align: center;
+    margin: 10px auto;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+img {
+    width: 20px;
+}
+
 .container {
     margin-left: 50px auto;
     margin-right: 50px auto;
